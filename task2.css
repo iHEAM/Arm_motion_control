@@ -1,0 +1,59 @@
+
+
+body{
+  font-family: arial;
+  font-size: 20px;
+  margin: 0;
+  background: #C0C0C0;
+  color: #000;
+
+}
+
+.voice_to_text{
+  text-align: center;
+  width: 950px;
+}
+
+
+
+
+#convert_text{
+  width: 700px;
+  height: 200px;
+  border-radius: 10px
+  resize: none;
+  padding: 10px;
+  font-size: 20px;
+  margin-bottom: 30px;
+  margin-left: 350px;
+
+}
+
+#instructions{
+text-align: center;
+margin-right:40px;
+color: #737CA1;
+
+}
+
+button{
+  padding: 20px 40px;
+  background: #737CA1;
+  border: 0;
+  border-radius: 5px;
+  cursor: pointer;
+  color: #fff;
+  margin-right: 250px ;
+  margin-left: 650px;
+  font-size: 20px;
+}
+
+
+h1{
+
+text-align: center;
+font-size: 50px;
+color: #737CA1;
+margin-left: 490px;
+
+}
